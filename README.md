@@ -89,4 +89,4 @@ Module 4 | Computer vision and edge computing with open VINO toolkit
 
 `Courses from Open SAP platform`
 
---
+---
